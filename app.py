@@ -24,7 +24,7 @@ with st.sidebar:
     
 
 # Creating main page heading
-st.title("Automatic Kenyan Number Plate License Detection")
+st.title("Automatic Number Plate License Detection")
 st.caption('Upload an image of a vehicle with a number plate.')
 st.caption('Then click the :blue[Detect License Plate] button and check the result.')
 # Creating two columns on the main page
